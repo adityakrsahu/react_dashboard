@@ -1,0 +1,93 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "registration": [
+    {
+      "id": "5087",
+      "name": "aditya kumar",
+      "src": "https://tse3.mm.bing.net/th?id=OIP.IhiqRWFamp-enjV2csKdzwHaE8&pid=Api&P=0&h=180",
+      "mobile": "8873638109",
+      "email": "adityakr2019@gmail.com",
+      "pass": "1234"
+    },
+    {
+      "id": "ff73",
+      "name": "aditya kumar",
+      "src": "fkkfdkfd",
+      "mobile": "9065845323",
+      "email": "adityakrchakhaji@gmail.com",
+      "pass": "123456"
+    }
+  ],
+  "customers": [
+    {
+      "name": "dsvfdvd",
+      "email": "fasghg",
+      "money": "500000",
+      "status": "on delivery",
+      "date": "2024-02-15T16:02",
+      "month": "2024-08",
+      "id": "cfb5"
+    },
+    {
+      "id": "aadd",
+      "name": "aditya kumar",
+      "email": "adityakr2019@gamil.com",
+      "money": "5000",
+      "status": "delivered",
+      "date": "2024-02-28T21:34",
+      "month": "2024-05"
+    },
+    {
+      "id": "80a2",
+      "name": "ankit",
+      "email": "aditya2019@gamil.com",
+      "money": "44544545",
+      "status": "booked",
+      "date": "2024-02-20T21:43",
+      "month": "2024-05"
+    },
+    {
+      "id": "18a6",
+      "name": "anshu",
+      "email": "anshu@gmail.com",
+      "money": "123456",
+      "status": "delivered",
+      "date": "2024-02-22T11:06",
+      "month": "2024-07"
+    },
+    {
+      "id": "c4ff",
+      "name": "abhishekh kumar",
+      "email": "abi2344@gmail.com",
+      "money": "1456",
+      "status": "on delivery",
+      "date": "2024-02-09T14:06",
+      "month": "2024-12"
+    },
+    {
+      "id": "cd26",
+      "name": "avish",
+      "email": "adiy@gmail.com",
+      "money": "456",
+      "status": "booked",
+      "date": "2024-02-10T16:01",
+      "month": "2024-07"
+    }
+  ]
+}
